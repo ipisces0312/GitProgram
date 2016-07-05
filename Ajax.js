@@ -37,3 +37,5 @@ function ajaxRequest(_method,_url,_async,_parameter,_function){
         _ajax.send(_parameter);
     }
 }
+
+abcd
